@@ -1,4 +1,4 @@
 streamlit
 pymongo
-pickle
+pickle5
 numpy
